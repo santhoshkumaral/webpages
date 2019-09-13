@@ -1,0 +1,924 @@
+
+li.underline > a {
+    border-bottom:3px solid #064da1;
+}
+/*Banner Section Css Start*/
+.index-page-banner {
+  text-align: center;
+  background-image: url('images/banner1.png') no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  min-height: 861px;
+}
+.logo-img
+{
+	width:95px;
+	height: 76px;
+}
+
+.logoheightdiv
+{
+ height: 50px;
+}
+
+.navheightdiv
+{
+	height: 18.2px;
+}
+
+.bannertextheightdiv
+{
+	height: 100px;
+}
+
+
+.banner-text
+{
+	font-size: 58px;
+	color: #064da1;
+	font-family: Acta Deck;
+	font-weight: 300;
+	line-height: 66px;
+	text-align: center;
+}
+
+.nav-text
+{
+	font-family: sans-serif,"Cera PRO";
+	font-size: 12px;
+	line-height: 16px;
+}
+/*Banner Section Css End*/
+
+/*About Section Css Start*/
+
+.about-section
+{
+ height: 467px;
+}
+
+.about-height-div
+{
+ height: 196px;
+}
+.about-height-div1
+{
+ height: 16.5px;
+}
+.about-height-div2
+{
+ height: 5.5px;
+}
+.about-text
+{
+	
+	color: #064DA1;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 14px;
+	line-height: 19px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.about-text1
+{
+	
+	color: #000000;
+	font-family: "Acta Deck";	
+	font-size: 41px;	
+	font-weight: 300;	
+	letter-spacing: 1.4px;	
+	line-height: 46px;
+	text-align: center;
+}
+
+.about-text2
+{
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+
+.about-line
+{
+	border: 1.5px solid #FF4C4C;
+	width:189px;
+}
+
+/*About Section Css End*/
+
+/*flavour Section Css Start*/
+.flavour-section
+{
+	height: 50px;
+}
+
+.flavour1-img
+{
+
+	height: 79.6px;
+	width: 69.8px;
+
+
+}
+
+.flavour2-img
+{
+	box-sizing: border-box;
+	/*height: 79px;*/
+	width: 73px;
+	margin-top: -12px;
+	/*border: 1px solid #FF4C4C;*/
+}
+.flavour3-img
+{
+	box-sizing: border-box;
+	height: 63.89px;
+	width: 63.86px;
+	margin-top: 5px;
+	/*border: 1px solid #E49418;*/
+}
+
+.flavour-text
+{
+
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 19px;
+	font-weight: bold;
+	letter-spacing: 1.13px;
+	line-height: 28px;
+	text-align: center;
+}
+
+.flavour-card-height
+{
+	height: 49px;
+}
+
+.flavour-card-height1
+{
+    height: 15px;
+}
+
+.flavour-card-height2
+{
+    height: 42px;
+}
+
+.flavour-card-height3
+{
+    height: 80px;
+}
+.flavour-card-height4
+{
+    height: 58px;
+}
+
+.flavour-card-height5
+{
+    height: 38px;
+}
+
+.flavour-card-height6
+{
+    height: 18px;
+}
+
+.flavour-text1
+{
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+
+.flavour-text2
+{
+
+	color: #898FFF;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 13px;
+	line-height: 19px;
+	text-align: center;
+	font-weight: bold;
+}
+
+
+   
+/*flavour Section Css Start*/
+
+/*Taste Section Css Start*/
+
+.bgcolor
+{
+	background-color:#eeeeee;
+}
+
+.taste-height
+{
+	height: 162px;
+}
+
+.taste-text
+{
+	color: #064DA1;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 14px;
+	line-height: 19px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.taste-text1
+{
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 41px;
+	font-weight: 300;
+	letter-spacing: 1.4px;
+	line-height: 46px;
+	text-align: center;
+}
+.taste-height1
+{
+	height: 4px;
+}
+.taste-text2
+{
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+.taste-height2
+{
+	height: 130.8px;
+}
+/*Taste Section Css End*/
+
+/*Dairy One Section Css Start*/
+.dairyone-flex-container
+ {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+    background-color: #eeeeee;
+}
+.dairyone-flex-item1
+ {
+    width: 8.33%;
+    background-color: #eeeeee;
+
+}
+.dairyone-flex-item2 {
+    width: 25%;
+    background-color: #eeeeee;
+}
+.dairyone-flex-item3 {
+    width: 66.66%;
+    background-color: #eeeeee;
+}
+.dairyone-flex-item4
+{
+	width: 100%;
+    background-color: #eeeeee;
+}
+.dairy-one-image
+{
+	width: 100%; 
+}
+
+.dairy-height
+{
+    height: 70px;
+}
+
+.dairy-height1
+{
+    height: 45px;
+}
+
+.dairy-height2
+{
+    height: 33px;
+}
+
+.dairy-height3
+{
+    height: 170px;
+}
+
+.dairy-line-div
+{
+    border: 0.5px solid #FF4C4C;
+}
+
+.dairy-one
+{
+	
+	color: #000000;	
+	font-family: "Acta Deck";	
+	font-size: 31px;	
+	font-weight: bold;	
+	letter-spacing: 1.06px;	
+	line-height: 31px;
+}
+
+.for-the-first-time-i 
+{
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+}
+
+.learn-more {
+
+	color: #898FFF;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 13px;
+	line-height: 19px;
+	font-weight: bold;
+}
+.dairyone-wrapper
+{
+	margin-left: 65px;
+}
+.dairyone-learn-wrapper
+{
+	margin-left: 65px;
+}
+@media only screen and (max-width: 600px)
+{
+
+	.dairyone-flex-item1
+	{
+		display: none;
+	}
+    .dairyone-flex-item2
+	{
+		width: 100%;
+	}
+	.dairyone-flex-item3
+	{
+		width: 100%;
+	}
+	.dairyone-flex-container 
+	{
+		width: 100%;
+		display: block;
+	}
+	.dairy-height3
+	{
+	    height: 20px;
+	}
+	.dairyone-wrapper
+	{
+		margin-left: 30px;
+	}
+	.dairyone-learn-wrapper
+	{
+		margin-left: 30px;
+	}
+}
+
+/*Dairy One Section Css End*/
+
+
+/*Non-Dairy Creamer Section Css Start*/
+.non-dairy-flex-container
+ {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+    background-color: #eeeeee;
+}
+.non-dairy-flex-item1
+ {
+    width: 66.66%;
+    background-color: #eeeeee;
+
+}
+.non-dairy-flex-item2 {
+    width: 25%;
+    background-color: #eeeeee;
+}
+.non-dairy-flex-item3 {
+    width: 8.33%;
+    background-color: #eeeeee;
+}
+.non-dairy-flex-item4
+{
+	width: 100%;
+    background-color: #eeeeee;
+}
+.non-dairy-image
+{
+	width: 100%; 
+}
+
+.non-dairy-height
+{
+    height: 70px;
+}
+
+.non-dairy-height1
+{
+    height: 45px;
+}
+
+.non-dairy-height2
+{
+    height: 33px;
+}
+
+.non-dairy-height3
+{
+    height: 129px;
+    background-color:#eeeeee;
+}
+
+.non-dairy-line-div
+{
+	border: 0.5px solid #FF4C4C;
+}
+.non-dairy-image
+{
+   width: 100%;
+}
+.non-dairy-wrapper
+{
+	margin-left: 112px;
+}
+.non-dairy-learn-wrapper
+{
+	margin-left: 112px;
+}
+.non-dairy-creamer-n {
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: bold;
+	letter-spacing: 1.06px;
+	line-height: 31px;
+}
+
+.through-exhaustive-r {
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+}
+@media only screen and (max-width: 600px)
+{
+
+	.non-dairy-flex-item1
+	{
+		width: 100%;
+	}
+    .non-dairy-flex-item2
+	{
+		width: 100%;
+	}
+	.non-dairy-flex-item3
+	{
+		display: none;
+	}
+	.non-dairy-flex-container 
+	{
+		width: 100%;
+		display: block;
+	}
+	.non-dairy-wrapper
+	{
+		margin-left: 30px;
+	}
+	.non-dairy-learn-wrapper
+	{
+		margin-left: 30px;
+	}
+}
+/*Non-Dairy Creamer Section Css End*/
+
+/* After Non-Dairy Image  Section Css start*/
+
+.row-img
+{
+  text-align: center;
+  background-image: url('images/after-non-dairy-img.png') no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  height: 296px;
+}
+@media only screen and (max-width: 600px)
+{
+	.row-img
+	{
+	  background-image: url('images/after-non-dairy-img.png') no-repeat center;
+	  background-size: cover;
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  -ms-background-size: cover;
+	  height: 296px;
+	}
+}
+.after-non-dairy-img
+{
+	height: 296px;
+}
+
+/*After Non-Dairy Image Section Css End*/
+
+/*Flavours Section Css Start*/
+.flavours 
+{
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: bold;
+	letter-spacing: 1.06px;
+	line-height: 31px;
+	text-align: center;
+}
+
+.we-offer-a-range-of 
+{
+	color: #8C8C8C;
+	font-family:sans-serif, "Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+
+.flavour1-height
+{
+	height: 23px;
+}
+.flavour1-height1
+{
+	height: 94.5px;
+}
+
+.flavour1-height2
+{
+	height: 9.5px;
+}
+/*Flavours Section Css End*/
+
+/*Flavours Image Section Css Start*/
+.bitmap-copy 
+{	
+	height: 345px;	
+	width: 340px;
+}
+.flavour-img-height
+{
+	height: 58px;
+}
+
+.citrus {
+	height: 27px;
+	width: 99px;
+/*	color: #FF4C4C;
+	font-family: "Acta Deck";
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 40px;*/
+	margin-left: 7px;
+}
+.brown {
+	height: 27px;
+	width: 109px;
+	margin-left: 7px;
+}
+.ethnic {
+	height: 27px;
+	width: 106px;
+	margin-left: 7px;
+}
+.fruits {
+	height: 27px;
+	width: 96px;
+	margin-left: 7px;
+}
+
+.dairy {
+	height: 27px;
+	width: 91px;
+	margin-left: 7px;
+}
+.savoury {
+	height: 27px;
+	width: 133px;
+	margin-left: 7px;
+}
+.arrow
+{
+	margin-right: 10px;
+}
+
+.flavours-line
+{
+	border: 1.5px solid #FF4C4C;
+	width:95%;
+}
+
+.flavour-row-height
+{
+	height: 91px;
+}
+.flavour-row-height1
+{
+	height: 140px;
+}
+/*Flavours Image Section Css End*/
+
+/*Lab Image Section Css Start*/
+
+	.lab-img
+	{
+	  text-align: center;
+	  background-image: url('images/lab-photo-img.png') no-repeat center;
+	  background-size: cover;
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  -ms-background-size: cover;
+	  height: 296px;
+	}
+	@media only screen and (max-width: 600px)
+	{
+		.lab-img
+		{
+		  text-align: center;
+		  background-image: url('images/lab-photo-img.png') no-repeat center;
+		  background-size: cover;
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  -ms-background-size: cover;
+		  height: 296px;
+		}
+	}
+/*.lab-img
+{
+	height: 296px;
+}*/
+.lab-row-height
+{
+	height: 131px;
+}
+
+@media only screen and (max-width: 600px)
+{
+		.lab-img
+	{
+		height: 180px;
+	}
+}
+
+/*Lab Image Section Css End*/
+
+/*Innovation Section Css Start*/
+.innovation
+ {
+	color: #064DA1;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 14px;
+	line-height: 19px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.in-pursuit-of-innova
+ {
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 41px;
+	font-weight: 300;
+	letter-spacing: 1.4px;
+	line-height: 46px;
+	text-align: center;
+}
+
+.the-human-palate-has 
+{
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+.inno-row-height
+{
+	height: 23px;
+}
+.inno-row-height1
+{
+	height: 31px;
+}
+
+.inno-row-height2
+{
+	height: 108px;
+}
+.inno-row-height3
+{
+	height: 7px;
+}
+.inno-line
+{
+	border: 1px solid #000000;
+	width:189px;
+}
+/*Innovation Section Css End*/
+
+
+/*Semi Footer Section Css Start*/
+.stock-photo-map-of-world-made
+ {
+  text-align: center;
+  background-image: url('images/footer-img.png') no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  /*min-height: 861px;*/
+  min-height: 680px;
+  /*width: 1440px;*/
+}
+.semi-footer-row-height
+{
+	height: 120px;
+}
+.semi-footer-row-height1
+{
+    height:33px;
+}
+
+.semi-footer-row-height2
+{
+    height:41px;
+}
+
+.semi-footer-row-height3
+{
+    height:50px;
+}
+
+.semi-footer-row-height4
+{
+    height:140px;
+}
+
+
+.what-we-bring-to-the 
+{
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 28px;
+	font-weight: bold;
+	letter-spacing: 1.44px;
+	line-height: 38px;
+	text-align: left;
+}
+.flavors-are-changing 
+{
+	color: #000000;
+	font-family:sans-serif,"Cera PRO";
+	font-size: 15px;
+	line-height: 20px;
+	text-align: left;
+}
+.semi-footer-line1
+{
+	border: 1.5px solid #898FFF;
+	width:85%;
+	margin-left: -1px;
+}
+
+.semi-footer-line2
+{
+	border: 1.5px solid #064DA1;
+	width:85%;
+	margin-left: -1px;
+}
+
+.more-learn
+{
+	color: #000000;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 13px;
+	line-height: 19px;
+	text-align: left;
+	font-weight: bold;
+}
+
+.a-team-of-handpicked
+ {
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 28px;
+	font-weight: bold;
+	letter-spacing: 1.44px;
+	line-height: 38px;
+	text-align: left;
+}
+.the-best-of-the-tale 
+{
+	color: #000000;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 15px;
+	line-height: 20px;
+	text-align: left;
+}
+
+.div-right-color
+{
+	border-right: 1.3px solid #000000;
+}
+
+.div-bottom-color
+{
+	border-bottom: 1.3px solid #000000;
+}
+
+/*Semi Footer Section Css End*/
+
+
+/*Main Footer Section Css Start*/
+.main-footer-img 
+{
+  text-align: center;
+  background-image: url('images/footer.png') no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+   min-height: 861px;
+}
+
+.main-footer-row-height
+{
+	height: 50px;
+}
+.main-footer-row-height1
+{
+	height: 40px;
+}
+
+.main-footer-row-height2
+{
+	height: 40px;
+}
+.main-footer-row-height3
+{
+	height:8px;
+}
+
+.footer-logo-icon
+ {
+	height: 80px;
+	width: 101px;
+}
+
+.privacy-policy-terms 
+{
+	color: #FFFFFF;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 14px;
+	line-height: 18px;
+}
+.all-rights-reserved
+{
+	color: #B0B0B0;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 13px;
+	line-height: 19px;
+}
+.cursor
+{
+	cursor: pointer;
+}
+/*Main Footer Section Css End*/
+@media only screen and (max-width: 600px)
+{
+	.ph-mr-left
+	{
+		margin-left: 30px;
+	}
+}

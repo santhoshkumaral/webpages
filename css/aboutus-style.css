@@ -1,0 +1,973 @@
+li.underline > a {
+    border-bottom:3px solid #FFFFFF;
+}
+/*Banner Section Css Start*/
+.lucas-vasques-453684-unsplash
+ {
+  text-align: center;
+  background-image: url('images/aboutus-banner.png') no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+   min-height: 663px;
+   /*opacity: 0.08;*/
+}
+
+@media only screen and (max-width: 600px)
+{
+	.lucas-vasques-453684-unsplash
+	 {
+	  text-align: center;
+	  background-image: url('images/aboutus-banner.png') no-repeat center;
+	  background-size: cover;
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  -ms-background-size: cover;
+	   min-height: 1200px;
+	   /*opacity: 0.08;*/
+	}
+}
+
+@media only screen and (min-width: 600px)
+{
+	.lucas-vasques-453684-unsplash
+	 {
+	  text-align: center;
+	  background-image: url('images/aboutus-banner.png') no-repeat center;
+	  background-size: cover;
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  -ms-background-size: cover;
+	   min-height: 750px;
+	   /*opacity: 0.08;*/
+	}
+}
+.sf-logo-motif
+ {	
+ 	height: 56px;	
+ 	width: 38px;
+ 	text-align: center;
+ }
+.banner-row-height
+{
+	height:50px;
+}
+.banner-row-height1
+{
+	height:18.2px;
+}
+.banner-row-height2
+{
+	height:76px;
+}
+.banner-row-height3
+{
+	height:9px;
+}
+.nav-text
+{
+	font-size: 12px;
+	font-family: sans-serif, Cera PRO;
+	font-weight: normal;
+	color: white;
+}
+.the-beginning-of-a-f
+ {
+	color: #FFFFFF;
+	font-family: "Acta Deck";
+	font-size: 58px;
+	font-weight: 300;
+	line-height: 63px;
+	text-align: center;
+}
+
+.stonefield-is-a-puls
+ {
+	color: #FFFFFF;
+	font-family:  sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
+/*Banner Section Css End*/
+
+/*Breadcrumbs  Section Css Start*/
+.bgcolor
+{
+	background-color:#eeeeee;
+	height: 45px;
+}
+
+.home-about 
+{
+	color: rgba(0,0,0,0.8);
+	font-family: sans-serif,"Cera PRO";
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 20px;
+}
+
+/*Breadcrumbs  Section Css End*/
+
+/*Our Mission  Section Css Start*/
+.our-mission-row-height
+{
+	height: 74px;
+}
+.our-mission-row-height1
+{
+	height: 11px;
+}
+.our-mission-row-height2
+{
+	height: 15px;
+}
+.our-mission 
+{
+	color: #064DA1;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 14px;
+	line-height: 19px;
+	font-weight: bold;
+}
+
+.taste-the-future 
+{
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 41px;
+	font-weight: 300;
+	letter-spacing: 1.4px;
+	line-height: 46px;
+	text-align: center;
+}
+.true-to-our-statemen 
+{
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+.our-mission-line
+{
+	border: 1.5px solid #064DA1;
+	width:189px;
+}
+/*Our Mission  Section Css End*/
+
+/*Four Div with Picture  Section Css Start*/
+
+.four-pic-row-height
+{
+	height: 63px;
+}
+
+.four-pic-row-height1
+{
+	height: 32px;
+}
+.four-pic-row-height2
+{
+	height: 36px;
+}
+.four-pic-row-height3
+{
+	height: 48px;
+}
+.four-pic-row-height4
+{
+	height: 32px;
+}
+
+.be-the-most-creative
+ {
+	color: #898FFF;
+	font-family: "Acta Deck";
+	font-size: 28px;
+	font-style: italic;
+	font-weight: 500;
+	line-height: 31px;
+	text-align: center;
+}
+
+.stay-committed-to-ou 
+{
+
+	color: #004DA7;
+	font-family: "Acta Deck";
+	font-size: 28px;
+	font-style: italic;
+	font-weight: 500;
+	line-height: 31px;
+	text-align: center;
+}
+
+.maintain-an-ethical 
+{
+	color: #004DA7;
+	font-family: "Acta Deck";
+	font-size: 28px;
+	font-style: italic;
+	font-weight: 500;
+	line-height: 31px;
+	text-align: center;
+}
+
+.make-a-practice-of-b 
+{
+
+	color: #898FFF;
+	font-family: "Acta Deck";
+	font-size: 28px;
+	font-style: italic;
+	font-weight: 500;
+	line-height: 31px;
+	text-align: center;
+}
+.bulb-icon
+ {
+	height: 120px;
+	width: 108px;
+	margin-top:-15px; 
+ }
+.shape-17
+{
+	height: 102px;
+	width: 102px;
+}
+.shape-18
+{
+	height: 90px;
+	width: 105px;
+}
+.shape-16
+{
+	height: 108px;
+	width: 108px;
+}
+/*Four Div with Picture  Section Css End*/
+
+/*Value  Section Css Start*/
+
+.value-row-height
+{
+	height: 200px;
+}
+
+.value-row-height1
+{
+	height: 20px;
+}
+.value-row-height2
+{
+	height: 82px;
+}
+
+.value
+ {
+	color: #064DA1;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 14px;
+	line-height: 19px;
+	font-weight: bold;
+}
+.how-we-help-our-clie 
+{
+
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: bold;
+	letter-spacing: 1.06px;
+	line-height: 31px;
+	text-align:center;
+}
+
+.for-us-success-is-i
+ {
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+	margin-top: 8px;
+}
+/*Value  Section Css End*/
+
+/*Flavour Co-Development  Section Css Start*/
+.flavour-codev-flex-container
+ {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+}
+.flavour-codev-flex-item1
+ {
+    width: 8.33%;
+
+}
+.flavour-codev-flex-item2 {
+    width: 25%;
+}
+.flavour-codev-flex-item3 {
+    width: 66.66%;
+}
+.flavour-codev-image
+{
+	width: 100%; 
+}
+
+.flavour-codev-wrapper
+{
+	margin-left: 65px;
+}
+
+@media only screen and (max-width: 600px)
+{
+
+	.flavour-codev-flex-item1
+	{
+		display: none;
+	}
+    .flavour-codev-flex-item2
+	{
+		width: 100%;
+	}
+	.flavour-codev-flex-item3
+	{
+		width: 100%;
+	}
+
+	.flavour-codev-flex-container 
+	{
+		width: 100%;
+		display: block;
+	}
+	.flavour-codev-row-height2
+	{
+	    height: 20px;
+	}
+	.flavour-codev-wrapper
+	{
+		margin-left: 30px;
+	}
+}
+
+.flavour-co-developme 
+{
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 22px;
+	font-weight: bold;
+	letter-spacing: 1.13px;
+	line-height: 28px;
+}
+
+.flavour-codev-row-height
+{
+	height: 56px;
+}
+.flavour-codev-row-height1
+{
+	height: 58px;
+}
+.flavour-codev-row-height2
+{
+	height: 129px;
+}
+.flavour-codev-line-div
+{
+    border: 0.5px solid #FF4C4C;
+}
+
+.our-in-house-flavour 
+{
+
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	padding-top: 3px;
+}
+	
+
+/*Flavour Co-Development  Section Css End*/
+
+/*Flavour Customising  Section Css Start*/
+.flavour-custo-flex-container
+ {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+
+}
+.flavour-custo-flex-item1
+ {
+    width: 58.33%;
+
+
+}
+.flavour-custo-flex-item2 {
+    width: 41.66%;
+}
+.flavour-custo-flex-item3 {
+    width: 100%;
+}
+
+.flavour-custo-wrapper
+{
+	margin-left: 112px;
+}
+
+@media only screen and (max-width: 600px)
+{
+
+	.flavour-custo-flex-item1
+	{
+		width: 100%;
+	}
+    .flavour-custo-flex-item2
+	{
+		width: 100%;
+	}
+	.flavour-custo-flex-container 
+	{
+		width: 100%;
+		display: block;
+	}
+	.flavour-custo-wrapper
+	{
+		margin-left: 30px;
+	}
+}
+
+.flavour-img2
+{
+	width: 100%;
+	height: 385px;
+}
+
+.customising-flavours 
+{
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 22px;
+	font-weight: bold;
+	letter-spacing: 1.13px;
+	line-height: 28px;
+}
+
+.our-approach-to-cust 
+{
+
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	padding-top: 3px;
+}
+
+.flavour-custo-line-div
+{
+    border: 0.5px solid #FF4C4C;
+}
+
+.flavour-custo-row-height
+{
+	height: 29px;
+}
+
+.flavour-custo-row-height1
+{
+	height: 55px;
+}
+.flavour-custo-row-height2
+{
+	height: 120px;
+}
+
+.flavour-custo-row-height3
+{
+   height: 45px;
+}
+
+/*Flavour Customising  Section Css End*/
+
+
+/*Flavour Matching  Section Css Start*/
+.flavour-match-flex-container
+ {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+}
+.flavour-match-flex-item1
+ {
+    width: 8.33%;
+
+}
+.flavour-match-flex-item2 {
+    width: 25%;
+}
+.flavour-match-flex-item3 {
+    width: 66.66%;
+}
+
+
+.flavour-match-wrapper
+{
+	margin-left: 65px;
+}
+
+@media only screen and (max-width: 600px)
+{
+
+	.flavour-match-flex-item1
+	{
+		display: none;
+	}
+    .flavour-match-flex-item2
+	{
+		width: 100%;
+	}
+	.flavour-match-flex-item3
+	{
+		width: 100%;
+	}
+
+	.flavour-match-flex-container 
+	{
+		width: 100%;
+		display: block;
+	}
+	.flavour-match-row-height2
+	{
+	    height: 20px;
+	}
+	.flavour-match-wrapper
+	{
+		margin-left: 30px;
+	}
+}
+.flavour-img3
+{
+	height: 358px;
+	width: 100%;
+}
+
+.flavour-matching 
+{
+
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 22px;
+	font-weight: bold;
+	letter-spacing: 1.13px;
+	line-height: 28px;
+}
+
+
+.flavour-match-line-div
+{
+    border: 0.5px solid #FF4C4C;
+}
+
+
+.flavour-match-row-height
+{
+	height: 63px;
+}
+
+.flavour-match-row-height1
+{
+	height:60px;
+}
+
+.flavour-match-row-height2
+{
+	height:153px;
+}
+.sed-ut-perspiciatis
+ {
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+}
+/*Flavour Matching  Section Css End*/
+
+/*Exter  Section Css Start*/
+
+.exter-bgcolor-img
+{
+  text-align: center;
+  background-image: url('images/aboutus-food-map.png') no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+   min-height: 870px;
+}
+@media only screen and (max-width: 600px)
+{
+	.exter-bgcolor-img
+		{
+		  text-align: center;
+		  background-image: url('images/aboutus-food-map.png') no-repeat center;
+		  background-size: cover;
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  -ms-background-size: cover;
+		   min-height: 1300px;
+		}
+}
+
+@media only screen and (min-width: 600px)
+{
+	.exter-bgcolor-img
+		{
+		  text-align: center;
+		  background-image: url('images/aboutus-food-map.png') no-repeat center;
+		  background-size: cover;
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  -ms-background-size: cover;
+		   min-height: 900px;
+		}
+}
+
+.exter-row-height
+{
+	height: 120px;
+}
+.exter-row-height1
+{
+	height: 29px;
+}
+
+.exter-row-height2
+{
+	height: 60px;
+}
+
+.exter-row-height3
+{
+	height: 26px;
+}
+
+.exter-b-v-the-neth
+ {
+	color: #4C4C4C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 19px;
+	font-weight: 500;
+	line-height: 25px;
+	margin-top: 19px;
+}
+
+.a-meeting-of-minds-f 
+{
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 29px;
+	font-weight: 300;
+	line-height: 47px;
+}
+.our-association-with
+ {
+
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+}
+
+.sed-ut-perspiciatis1 
+{
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 20px;
+	/*font-style: italic;*/
+	font-weight: bold;
+	letter-spacing: 1.03px;
+	line-height: 28px;
+	margin-left: 35px;
+	margin-top: 8px;
+}
+
+.john
+{
+	color: #4C4C4C;
+	font-family: "Cera PRO";
+	font-size: 18px;
+	line-height: 25px;
+	font-weight: bold;
+    font-style: italic;
+    margin-left: 35px;
+}
+.left-line
+{
+	border-left: 2.5px solid #000000;
+    width: 200%;
+    margin-left: 15px;
+}
+
+/*Exter  Section Css End*/
+
+/*Home of taste  Section Css Start*/
+.home-of-taste-img
+{
+  background-image: url('images/home-of-taste-img.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 80px;
+  margin-top: -20px;
+}
+/*.home-taste-bgcolor
+{
+	background-color: #e71c41;
+}*/
+
+
+/*Home of taste  Section Css End*/
+
+/*Our Presence  Section Css Start*/
+.our-presence 
+{
+
+	color: #064DA1;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 14px;
+	line-height: 19px;
+	font-weight: bold;
+}
+.we-are-everywhere 
+{
+
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: bold;
+	letter-spacing: 1.06px;
+	line-height: 31px;
+}
+.we-envision-reaching 
+{
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+}
+
+.our-presence-row-height
+{
+    height:138px; 
+}
+
+.our-presence-row-height1
+{
+	height: 16px;
+}
+.our-presence-row-height2
+{
+	height: 7px;
+}
+/*Our Presence  Section Css End*/
+
+/*Country Name  Section Css Start*/
+
+.country-name-row-height
+{
+    height: 63px;
+}
+.country-name-row-height1
+{
+    height: 30px;
+}
+.country-name-row-height2
+{
+    height: 108px;
+}
+
+.india 
+{
+	color: rgba(0,0,0,0.8);
+	font-family: "Acta Deck";
+	font-size: 45px;
+	font-weight: bold;
+	line-height: 40px;
+}
+
+.nepal
+ {
+	opacity: 0.6;
+	color: rgba(0,0,0,0.8);
+	font-family: "Acta Deck";
+	font-size: 45px;
+	font-weight: bold;
+	line-height: 40px;
+}
+.bangladesh
+ {
+
+	color: rgba(0,0,0,0.8);
+	font-family: "Acta Deck";
+	font-size: 45px;
+	font-weight: bold;
+	line-height: 40px;
+}
+
+
+.zambia
+ {
+
+	opacity: 0.6;
+	color: rgba(0,0,0,0.8);
+	font-family: "Acta Deck";
+	font-size: 45px;
+	font-weight: bold;
+	line-height: 40px;
+}
+
+.drc 
+{
+
+	color: rgba(0,0,0,0.8);
+	font-family: "Acta Deck";
+	font-size: 45px;
+	font-weight: bold;
+	line-height: 40px;
+}
+
+.sri-lanka
+ {
+
+	opacity: 0.6;
+	color: rgba(0,0,0,0.8);
+	font-family: "Acta Deck";
+	font-size: 45px;
+	font-weight: bold;
+	line-height: 40px;
+}
+
+.malawi 
+{
+
+	color: rgba(0,0,0,0.8);
+	font-family: "Acta Deck";
+	font-size: 45px;
+	font-weight: bold;
+	line-height: 40px;
+}
+
+.tanzania 
+{
+
+	opacity: 0.6;
+	color: rgba(0,0,0,0.8);
+	font-family: "Acta Deck";
+	font-size: 45px;
+	font-weight: bold;
+	line-height: 40px;
+}
+
+.myanmar
+ {
+
+	color: rgba(0,0,0,0.8);
+	font-family: "Acta Deck";
+	font-size: 45px;
+	font-weight: bold;
+	line-height: 40px;
+}
+@media only screen and (max-width: 600px)
+{
+	.sri-lanka
+	{
+		text-align: center;
+	}
+	.malawi, .tanzania, .myanmar
+	{
+		text-align: center;
+	}
+}
+
+/*Country Name  Section Css Start*/
+
+/*Main Footer Section Css Start*/
+.main-footer-img 
+{
+  text-align: center;
+  background-image: url('images/footer.png') no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+   min-height: 861px;
+}
+
+.main-footer-row-height
+{
+	height: 50px;
+}
+.main-footer-row-height1
+{
+	height: 40px;
+}
+
+.main-footer-row-height2
+{
+	height: 40px;
+}
+.main-footer-row-height3
+{
+	height:8px;
+}
+
+.footer-logo-icon
+ {
+	height: 80px;
+	width: 101px;
+}
+
+.privacy-policy-terms 
+{
+	color: #FFFFFF;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 14px;
+	line-height: 18px;
+}
+.all-rights-reserved
+{
+	color: #B0B0B0;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 13px;
+	line-height: 19px;
+}
+.cursor
+{
+	cursor: pointer;
+}
+/*Main Footer Section Css End*/
+
+
+    .col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,
+    .col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-md-1,.col-md-10,.col-md-11,.col-md-12,
+    .col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9
+    {
+        position:relative;
+        min-height:1px;
+        padding-right:0px;
+        padding-left:0px
+    }

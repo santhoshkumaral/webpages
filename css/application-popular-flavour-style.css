@@ -1,0 +1,671 @@
+li.underline > a {
+    border-bottom:3px solid #064da1;
+}
+.logo-img
+ {	
+ 	width:95px;
+	height: 76px;
+ }
+.banner-row-height
+{
+	height:50px;
+}
+.banner-row-height1
+{
+	height:18.2px;
+}
+.banner-row-height2
+{
+	height:53px;
+}
+
+.nav-text
+{
+	font-size: 11px;
+	font-family: sans-serif, Cera PRO;
+	font-weight: normal;
+}
+
+/*Banner Section Css End*/
+
+/*Breadcrumbs  Section Css Start*/
+.bgcolor
+{
+	background-color:#eeeeee;
+	height: 45px;
+}
+
+@media only screen and (max-width: 600px)
+{
+		.bgcolor
+	{
+		background-color:#eeeeee;
+		height: 55px;
+	}
+}
+.breadcrumb-margin
+{
+	margin-top: 1px;
+}
+.home-applications
+{
+
+	font-family: sans-serif,"Cera PRO";
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 20px;
+}
+
+/*Breadcrumbs  Section Css End*/
+
+
+/*Popular  Section Css Start*/
+.popular-flavours
+ {
+	color: #064DA1;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 13px;
+	line-height: 19px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.there-are-reasons-wh
+ {
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: 500;
+	letter-spacing: 1.06px;
+	line-height: 36px;
+	text-align: center;
+}
+
+.popular-row-height
+{
+   height:70px;
+}
+.popular-row-height1
+{
+   height: 10px;
+}
+
+.popular-row-height2
+{
+   height: 111px;
+}
+
+/*Popular  Section Css End*/
+
+
+/*Dairy  Section Css Start*/
+.dairy-flex-container
+ {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+}
+.dairy-flex-item1
+ {
+    width: 8.33%;
+
+}
+.dairy-flex-item2 {
+    width: 25%;
+}
+.dairy-flex-item3 {
+    width: 66.66%;
+}
+
+.dairy-wrapper
+{
+	margin-left: 65px;
+}
+
+@media only screen and (max-width: 600px)
+{
+
+	.dairy-flex-item1
+	{
+		display: none;
+	}
+    .dairy-flex-item2
+	{
+		width: 100%;
+	}
+	.dairy-flex-item3
+	{
+		width: 100%;
+	}
+	.dairy-flex-container 
+	{
+		width: 100%;
+		display: block;
+	}
+
+	.dairy-wrapper
+	{
+		margin-left: 30px;
+	}
+	
+}
+
+
+.dairy-img
+{
+	width: 100%;
+}
+
+.we-are-keenly-aware
+ {
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 15px;
+	line-height: 25px;
+	margin-top: 24px;
+}
+
+.dairy 
+{
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: bold;
+	letter-spacing: 1.06px;
+	line-height: 31px;
+}
+
+.dairy-line
+{
+	border: 0.5px solid #FF4C4C;
+}
+
+.dairy-row-height
+{
+   height: 69px;
+}
+
+.dairy-row-height1
+{
+   height: 75px;
+}
+
+.dairy-row-height2
+{
+   height: 15px;
+}
+.dairy-row-height3
+{
+   height: 90px;
+}
+/*Dairy  Section Css End*/
+
+/*Brown  Section Css Start*/
+.brown-flex-container
+ {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+}
+.brown-flex-item1
+ {
+    width: 66.66%;
+
+}
+.brown-flex-item2 {
+    width: 25%;
+}
+.brown-flex-item3 {
+    width: 8.33%;
+}
+
+.brown-wrapper
+{
+	margin-left: 101px;
+}
+
+@media only screen and (max-width: 600px)
+{
+
+	.brown-flex-item1
+	{
+		width: 100%;
+	}
+    .brown-flex-item2
+	{
+		width: 100%;
+	}
+	.brown-flex-item3
+	{
+		display: none;
+	}
+	.brown-flex-container 
+	{
+		width: 100%;
+		display: block;
+	}
+	.brown-wrapper
+	{
+		margin-left: 30px;
+	}
+}
+.brown-img
+{
+	width: 100%;
+}
+
+.brown
+ {
+
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: bold;
+	letter-spacing: 1.06px;
+	line-height: 31px;
+}
+
+.constantly-evolving 
+{
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 15px;
+	line-height: 25px;
+	margin-top: 24px;
+}
+
+.brown-row-height
+{
+   height: 69px;
+}
+
+.brown-row-height1
+{
+   height: 75px;
+}
+
+.brown-row-height2
+{
+   height: 15px;
+}
+.brown-row-height3
+{
+   height: 90px;
+}
+.brown-line
+{
+	border: 0.5px solid #FF4C4C;
+}
+/*Brown  Section Css End*/
+
+/*Fruit  Section Css Start*/
+.fruit-flex-container
+ {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+}
+.fruit-flex-item1
+ {
+    width: 8.33%;
+
+}
+.fruit-flex-item2 {
+    width: 25%;
+}
+.fruit-flex-item3 {
+    width: 66.66%;
+}
+
+.fruit-wrapper
+{
+	margin-left: 65px;
+}
+
+@media only screen and (max-width: 600px)
+{
+
+	.fruit-flex-item1
+	{
+		display: none;
+	}
+    .fruit-flex-item2
+	{
+		width: 100%;
+	}
+	.fruit-flex-item3
+	{
+		width: 100%;
+	}
+	.fruit-flex-container 
+	{
+		width: 100%;
+		display: block;
+	}
+
+	.fruit-wrapper
+	{
+		margin-left: 30px;
+	}
+	
+}
+
+
+.fruit-img
+{
+	width: 100%;
+}
+.fruit
+ {
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: bold;
+	letter-spacing: 1.06px;
+	line-height: 31px;
+}
+
+
+.the-possibilities-of
+ {
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 15px;
+	line-height: 25px;
+	margin-top: 24px;
+}
+.fruit-row-height
+{
+   height: 69px;
+}
+
+.fruit-row-height1
+{
+   height: 75px;
+}
+
+.fruit-row-height2
+{
+   height: 15px;
+}
+.fruit-row-height3
+{
+   height: 90px;
+}
+
+.fruit-line
+{
+	border: 0.5px solid #FF4C4C;
+}
+/*Fruit  Section Css End*/
+
+/*Savoury  Section Css Start*/
+.savoury-flex-container
+ {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+}
+.savoury-flex-item1
+ {
+    width: 66.66%;
+
+}
+.savoury-flex-item2 {
+    width: 25%;
+}
+.savoury-flex-item3 {
+    width: 8.33%;
+}
+
+.savoury-wrapper
+{
+	margin-left: 101px;
+}
+
+@media only screen and (max-width: 600px)
+{
+
+	.savoury-flex-item1
+	{
+		width: 100%;
+	}
+    .savoury-flex-item2
+	{
+		width: 100%;
+	}
+	.savoury-flex-item3
+	{
+		display: none;
+	}
+	.savoury-flex-container 
+	{
+		width: 100%;
+		display: block;
+	}
+	.savoury-wrapper
+	{
+		margin-left: 30px;
+	}
+}
+
+.savoury-img
+{
+	width: 100%;
+}
+
+.savoury
+ {
+	
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: bold;
+	letter-spacing: 1.06px;
+	line-height: 31px;
+}
+
+
+.authenticity-comes-s
+ {
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 15px;
+	line-height: 25px;
+	margin-top: 24px;
+}
+
+.savoury-row-height
+{
+   height: 66px;
+}
+
+.savoury-row-height1
+{
+   height: 75px;
+}
+
+.savoury-row-height2
+{
+   height: 15px;
+}
+.savoury-row-height3
+{
+   height: 90px;
+}
+.savoury-row-height4
+{
+   height: 52px;
+}
+.savoury-line
+{
+	border: 0.5px solid #FF4C4C;
+}
+/*Savoury  Section Css End*/
+
+/*Ethnic  Section Css Start*/
+.ethnic-flex-container
+ {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+}
+.ethnic-flex-item1
+ {
+    width: 8.33%;
+
+}
+.ethnic-flex-item2 {
+    width: 25%;
+}
+.ethnic-flex-item3 {
+    width: 66.66%;
+}
+
+.ethnic-wrapper
+{
+	margin-left: 65px;
+}
+
+@media only screen and (max-width: 600px)
+{
+
+	.ethnic-flex-item1
+	{
+		display: none;
+	}
+    .ethnic-flex-item2
+	{
+		width: 100%;
+	}
+	.ethnic-flex-item3
+	{
+		width: 100%;
+	}
+	.ethnic-flex-container 
+	{
+		width: 100%;
+		display: block;
+	}
+
+	.ethnic-wrapper
+	{
+		margin-left: 30px;
+	}
+	
+}
+
+.ethnic-img
+{
+	width: 100%;
+
+}
+.ethnic
+ {
+
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: bold;
+	letter-spacing: 1.06px;
+	line-height: 31px;
+}
+
+
+.the-world-is-smaller
+ {
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 15px;
+	line-height: 25px;
+	margin-top: 24px;
+}
+.ethnic-row-height
+{
+   height: 69px;
+}
+
+.ethnic-row-height1
+{
+   height: 75px;
+}
+
+.ethnic-row-height2
+{
+   height: 15px;
+}
+.ethnic-row-height3
+{
+   height: 259px;
+}
+
+.ethnic-line
+{
+	border: 0.5px solid #FF4C4C;
+}
+/*Ethnic  Section Css End*/
+
+/*Main Footer Section Css Start*/
+.main-footer-img 
+{
+  text-align: center;
+  background-image: url('images/footer.png') no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+   min-height: 861px;
+}
+
+.main-footer-row-height
+{
+	height: 50px;
+}
+.main-footer-row-height1
+{
+	height: 40px;
+}
+
+.main-footer-row-height2
+{
+	height: 40px;
+}
+.main-footer-row-height3
+{
+	height:8px;
+}
+
+.footer-logo-icon
+ {
+	height: 80px;
+	width: 101px;
+}
+
+.privacy-policy-terms 
+{
+	color: #FFFFFF;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 14px;
+	line-height: 18px;
+}
+.all-rights-reserved
+{
+	color: #B0B0B0;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 13px;
+	line-height: 19px;
+}
+.cursor
+{
+	cursor: pointer;
+}
+/*Main Footer Section Css End*/
+
+    .col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9
+    {
+        position:relative;
+        min-height:1px;
+        padding-right:0px;
+        padding-left:0px;
+    }

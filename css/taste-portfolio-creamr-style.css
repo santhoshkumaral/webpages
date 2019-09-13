@@ -1,0 +1,271 @@
+li.underline > a {
+    border-bottom:2px solid #064da1;
+}
+.logo-img
+ {	
+ 	width:95px;
+	height: 76px;
+ }
+.banner-row-height
+{
+	height:50px;
+}
+.banner-row-height1
+{
+	height:18.2px;
+}
+.banner-row-height2
+{
+	height:53px;
+}
+
+.nav-text
+{
+	font-size: 12px;
+	font-family: sans-serif, Cera PRO;
+	font-weight: normal;
+}
+
+/*Banner Section Css End*/
+
+/*Breadcrumbs  Section Css Start*/
+.bgcolor
+{
+	background-color:#eeeeee;
+	height: 45px;
+}
+
+.home-about 
+{
+
+	font-family: "Cera PRO";
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 20px;
+}
+
+/*Breadcrumbs  Section Css End*/
+
+/*Row Image  Section Css Start*/
+.row-img
+	{
+	  text-align: center;
+	  background-image: url('images/taste-portfolio-creamr-hero-img.png') no-repeat center;
+	  background-size: cover;
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  -ms-background-size: cover;
+	  height: 369px;
+	  margin-top: -5px;
+	}
+@media only screen and (max-width: 600px)
+{
+	.row-img
+	{
+	  background-image: url('images/taste-portfolio-creamr-hero-img.png') no-repeat center;
+	  background-size: cover;
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  -ms-background-size: cover;
+	  height: 296px;
+	}
+}
+/*@media only screen and (max-width: 600px)
+{
+   .row-image
+   {
+   	height:180px;
+   }
+}*/
+
+/*Row Image  Section Css End*/
+
+/*CreamR  Section Css Start*/
+
+.cream-r
+ {
+	color: #898FFF;
+	font-family: ArcherPro;
+	font-size: 108px;
+	font-weight: 300;
+	line-height: 130px;
+	text-align: center;
+}
+@media only screen and (max-width: 600px)
+{
+	.cream-r
+{
+	color: #064DA1;
+	font-family: ArcherPro;
+	font-size: 70px;
+	font-weight: 300;
+	line-height: 130px;
+	text-align: center;
+}
+}
+.we-proudly-present-y
+ {
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 27px;
+	text-align: center;
+}
+.through-exhaustive-r
+ {
+	color: #064DA1;
+	font-family: "Acta Deck";
+	font-size: 28px;
+	font-style: italic;
+	font-weight: 500;
+	line-height: 41px;
+	text-align: center;
+}
+
+.creamr-row-height1
+{
+	height: 94px;
+}
+.creamr-row-height2
+{
+	height: 48px;
+}
+
+.creamr-row-height3
+{
+	height: 52px;
+}
+
+.creamr-row-height4
+{
+	height: 16px;
+}
+.creamr-row-height5
+{
+	height: 92px;
+}
+
+.creamr-line
+{
+	border: 2px solid #064DA1;
+	width:189px;
+}
+/*CreamR Section Css End*/
+
+
+/*Flavour Precision Section Css Start*/
+.flavour-precision
+ {
+	color: #064DA1;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 14px;
+	line-height: 19px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.our-non-dairy-creame 
+{
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+
+.flavour-precision-row-height1
+{
+   height: 62px;
+}
+
+.flavour-precision-row-height2
+{
+	height: 49px;
+}
+
+.flavour-precision-row-height3
+{
+	height: 9px;
+}
+
+
+/*Flavour Precision Section Css End*/
+
+/*Three Pic Section Css Start*/
+
+.three-pic-row-height1
+{
+  height: 130px;
+}
+
+.three-pic-row-height2
+{
+	height: 166px;
+}
+
+/*.water-img
+{
+	height: 425px;
+	width: 340px;
+}*/
+
+/*Three Pic Section Css End*/
+
+/*Main Footer Section Css Start*/
+.main-footer-img 
+{
+  text-align: center;
+  background-image: url('images/footer.png') no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+   min-height: 861px;
+}
+
+.main-footer-row-height
+{
+	height: 50px;
+}
+.main-footer-row-height1
+{
+	height: 40px;
+}
+
+.main-footer-row-height2
+{
+	height: 40px;
+}
+.main-footer-row-height3
+{
+	height:8px;
+}
+
+.footer-logo-icon
+ {
+	height: 80px;
+	width: 101px;
+}
+
+.privacy-policy-terms 
+{
+	color: #FFFFFF;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 14px;
+	line-height: 18px;
+}
+.all-rights-reserved
+{
+	color: #B0B0B0;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 13px;
+	line-height: 19px;
+}
+.cursor
+{
+	cursor: pointer;
+}
+/*Main Footer Section Css End*/

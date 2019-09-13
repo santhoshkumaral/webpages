@@ -1,0 +1,270 @@
+li.underline > a {
+    border-bottom:3px solid #064da1;
+}
+.logo-img
+ {	
+ 	width:95px;
+	height: 76px;
+ }
+.banner-row-height
+{
+	height:50px;
+}
+.banner-row-height1
+{
+	height:18.2px;
+}
+.banner-row-height2
+{
+	height:53px;
+}
+
+.nav-text
+{
+	font-size: 12px;
+	font-family: sans-serif, Cera PRO;
+	font-weight: normal;
+}
+
+/*Banner Section Css End*/
+
+/*Breadcrumbs  Section Css Start*/
+.bgcolor
+{
+	background-color:#eeeeee;
+	height: 45px;
+}
+
+.home-about 
+{
+
+	font-family: "Cera PRO";
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 20px;
+}
+
+/*Breadcrumbs  Section Css End*/
+
+
+/*Non Dairy  Section Css Start*/
+.non-dairy-creamer
+ {
+
+	color: #064DA1;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 14px;
+	line-height: 19px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.first-of-its-kind-fl 
+{
+
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: 500;
+	letter-spacing: 1.06px;
+	line-height: 36px;
+	text-align: center;
+}
+
+.we-proudly-present-y
+ {
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+
+.non-dairy-row-height
+{
+   height:70px;
+}
+.non-dairy-row-height1
+{
+   height: 10px;
+}
+
+.non-dairy-row-height2
+{
+   height: 75px;
+}
+
+.non-dairy-row-height3
+{
+   height: 14px;
+}
+/*Non Dairy  Section Css End*/
+
+
+/*CreamR  Section Css Start*/
+
+.cream-r
+{
+	color: #FF4C4C;
+	font-family: "ArcherPro";
+	font-size: 108px;
+	font-weight: 300;
+	line-height: 130px;
+	text-align: center;
+}
+
+@media only screen and (max-width: 600px)
+{
+	.cream-r
+{
+	font-family: ArcherPro;
+	font-size: 70px;
+	font-weight: 300;
+	line-height: 130px;
+	text-align: center;
+}
+}
+
+.our-manufacturing-fa
+ {
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+.properly-formulated
+ {
+	color: #064DA1;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 23px;
+	line-height: 30px;
+	text-align: center;
+	letter-spacing: 1.06px;
+}
+.our-ndc
+{
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+.creamr-row-height
+{
+	height: 11px;
+}
+.creamr-row-height1
+{
+	height: 31px;
+}
+
+.creamr-row-height2
+{
+	height: 7px;
+}
+
+.creamr-row-height3
+{
+	height: 70px;
+}
+
+.creamr-line
+{
+	border: 2px solid #064DA1;
+	width:189px;
+}
+/*CreamR  Section Css End*/
+
+
+/*Five Pic Section Css Start*/
+.application-creamr-coffee
+{
+	width: 325px;
+	height: 402px;
+}
+.pic-row-height
+{
+	height: 31px;
+}
+.pic-row-height1
+{
+    height: 62px;
+}
+
+.pic-row-height2
+{
+    height: 114px;
+}
+.coffee 
+{
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 22px;
+	font-weight: bold;
+	letter-spacing: 0.75px;
+	line-height: 22px;
+}
+
+/*Five Pic Section Css End*/
+
+
+
+
+
+/*Main Footer Section Css Start*/
+.main-footer-img 
+{
+  text-align: center;
+  background-image: url('images/footer.png') no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+   min-height: 861px;
+}
+
+.main-footer-row-height
+{
+	height: 50px;
+}
+.main-footer-row-height1
+{
+	height: 40px;
+}
+
+.main-footer-row-height2
+{
+	height: 40px;
+}
+.main-footer-row-height3
+{
+	height:8px;
+}
+
+.footer-logo-icon
+ {
+	height: 80px;
+	width: 101px;
+}
+
+.privacy-policy-terms 
+{
+	color: #FFFFFF;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 14px;
+	line-height: 18px;
+}
+.all-rights-reserved
+{
+	color: #B0B0B0;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 13px;
+	line-height: 19px;
+}
+.cursor
+{
+	cursor: pointer;
+}
+/*Main Footer Section Css End*/

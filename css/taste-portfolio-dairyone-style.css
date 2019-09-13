@@ -1,0 +1,332 @@
+li.underline > a {
+    border-bottom:2px solid #064da1;
+}
+.logo-img
+ {	
+ 	width:95px;
+	height: 76px;
+ }
+.banner-row-height
+{
+	height:50px;
+}
+.banner-row-height1
+{
+	height:18.2px;
+}
+.banner-row-height2
+{
+	height:53px;
+}
+
+.nav-text
+{
+	font-size: 12px;
+	font-family: sans-serif, Cera PRO;
+	font-weight: normal;
+}
+
+/*Banner Section Css End*/
+
+/*Breadcrumbs  Section Css Start*/
+.bgcolor
+{
+	background-color:#eeeeee;
+	height: 45px;
+}
+
+.home-about 
+{
+
+	font-family: "Cera PRO";
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 20px;
+}
+
+/*Breadcrumbs  Section Css End*/
+
+
+/*Row Image  Section Css Start*/
+	.row-img
+	{
+	  text-align: center;
+	  background-image: url('images/taste-portfolio-dairyone-hero-img.png') no-repeat center;
+	  background-size: cover;
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  -ms-background-size: cover;
+	  height: 369px;
+	  margin-top: -5px;
+	}
+@media only screen and (max-width: 600px)
+{
+	.row-img
+	{
+	  background-image: url('images/taste-portfolio-dairyone-hero-img.png') no-repeat center;
+	  background-size: cover;
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  -ms-background-size: cover;
+	  height: 296px;
+	}
+}
+
+/*@media only screen and (max-width: 600px)
+{
+	.row-image
+	{
+		height: 180px;
+	}
+}*/
+
+/*Breadcrumbs  Section Css End*/
+
+
+/*DairyOne  Section Css Start*/
+
+.dairy-one
+{
+	color: #064DA1;
+	font-family: ArcherPro;
+	font-size: 108px;
+	font-weight: 300;
+	line-height: 130px;
+	text-align: center;
+}
+@media only screen and (max-width: 600px)
+{
+	.dairy-one
+{
+	color: #064DA1;
+	font-family: ArcherPro;
+	font-size: 70px;
+	font-weight: 300;
+	line-height: 130px;
+	text-align: center;
+}
+}
+.for-the-first-time-i 
+{
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+.the-dairy-one-product
+ {
+	color: #064DA1;
+	font-family: "Acta Deck";
+	font-size: 28px;
+	font-style: italic;
+	font-weight: 500;
+	line-height: 31px;
+	text-align: center;
+}
+
+.dairyone-row-height1
+{
+	height: 94px;
+}
+.dairyone-row-height2
+{
+	height: 48px;
+}
+
+.dairyone-row-height3
+{
+	height: 52px;
+}
+
+.dairyone-row-height4
+{
+	height: 16px;
+}
+.dairyone-row-height5
+{
+	height: 92px;
+}
+
+.dairyone-line
+{
+	border: 2px solid #064DA1;
+	width:189px;
+}
+/*DairyOne  Section Css End*/
+
+
+/*Flavour Precision Section Css Start*/
+.flavour-precision
+ {
+	color: #064DA1;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 14px;
+	line-height: 19px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.no-room-for-error 
+{
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 41px;
+	font-weight: 300;
+	letter-spacing: 1.4px;
+	line-height: 46px;
+	text-align: center;
+}
+.we-have-met-creative
+ {
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+
+.flavour-precision-row-height1
+{
+   height: 46px;
+}
+
+.flavour-precision-row-height2
+{
+	height: 57px;
+}
+
+
+
+/*Flavour Precision Section Css End*/
+
+/*Four Pic Section Css Start*/
+
+.four-pic-row-height1
+{
+  height: 40px;
+}
+
+.four-pic-row-height2
+{
+	height: 76px;
+}
+
+.div-border-color
+{
+	border: 1px solid #FF4C4C;
+}
+.butter-one 
+{
+
+	color: #FF4C4C;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: bold;
+	letter-spacing: 1.06px;
+	line-height: 31px;
+}
+
+.img-margin-top
+{
+	margin-top: 36px;
+}
+
+.cheese-one
+ {
+
+	color: #FF4C4C;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: bold;
+	letter-spacing: 1.06px;
+	line-height: 31px;
+	margin-top: 7px;
+}
+
+
+
+.milk-one
+ {
+
+	color: #FF4C4C;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: bold;
+	letter-spacing: 1.06px;
+	line-height: 31px;
+	margin-top: -2px;
+}
+
+.cream-one
+ {
+
+	color: #FF4C4C;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: bold;
+	letter-spacing: 1.06px;
+	line-height: 31px;
+	margin-top: 37px;
+}
+
+/*Four Pic Section Css End*/
+
+/*Main Footer Section Css Start*/
+.main-footer-img 
+{
+  text-align: center;
+  background-image: url('images/footer.png') no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+   min-height: 861px;
+}
+
+.main-footer-row-height
+{
+	height: 50px;
+}
+.main-footer-row-height1
+{
+	height: 40px;
+}
+
+.main-footer-row-height2
+{
+	height: 40px;
+}
+.main-footer-row-height3
+{
+	height:8px;
+}
+
+.footer-logo-icon
+ {
+	height: 80px;
+	width: 101px;
+}
+
+.privacy-policy-terms 
+{
+	color: #FFFFFF;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 14px;
+	line-height: 18px;
+}
+.all-rights-reserved
+{
+	color: #B0B0B0;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 13px;
+	line-height: 19px;
+}
+.cursor
+{
+	cursor: pointer;
+}
+/*Main Footer Section Css End*/

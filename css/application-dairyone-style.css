@@ -1,0 +1,307 @@
+li.underline > a {
+    border-bottom:3px solid #064da1;
+}
+.logo-img
+ {	
+ 	width:95px;
+	height: 76px;
+ }
+.banner-row-height
+{
+	height:50px;
+}
+.banner-row-height1
+{
+	height:18.2px;
+}
+.banner-row-height2
+{
+	height:53px;
+}
+
+.nav-text
+{
+	font-size: 12px;
+	font-family: sans-serif, Cera PRO;
+	font-weight: normal;
+}
+
+/*Banner Section Css End*/
+
+/*Breadcrumbs  Section Css Start*/
+.bgcolor
+{
+	background-color:#eeeeee;
+	height: 45px;
+}
+
+.home-about 
+{
+
+	font-family: "Cera PRO";
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 20px;
+}
+
+/*Breadcrumbs  Section Css End*/
+
+
+/*Natural Dairy   Section Css Start*/
+.natural-dairy-flavou
+ {
+	color: #064DA1;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 14px;
+	line-height: 19px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.jolt-your-tastebuds 
+{
+
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: 500;
+	letter-spacing: 1.06px;
+	line-height: 36px;
+	text-align: center;
+}
+
+.we-proudly-present-y 
+{
+
+	color: #4C4C4C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+
+.natural-dairy-row-height
+{
+   height:70px;
+}
+.natural-dairy-row-height1
+{
+   height: 10px;
+}
+
+.natural-dairy-row-height2
+{
+   height: 75px;
+}
+
+.natural-dairy-row-height3
+{
+   height: 14px;
+}
+/*Natural Dairy   Section Css End*/
+
+
+/*DairyOne  Section Css Start*/
+
+.dairy-one
+{
+	color: #064DA1;
+	font-family: ArcherPro;
+	font-size: 108px;
+	font-weight: 300;
+	line-height: 130px;
+	text-align: center;
+}
+@media only screen and (max-width: 600px)
+{
+	.dairy-one
+{
+	color: #064DA1;
+	font-family: ArcherPro;
+	font-size: 70px;
+	font-weight: 300;
+	line-height: 130px;
+	text-align: center;
+}
+}
+.we-proudly-present-y
+ {
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+.properly-formulated
+ {
+	color: #064DA1;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 23px;
+	line-height: 30px;
+	text-align: center;
+	letter-spacing: 1.06px;
+}
+.our-ndc
+{
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 18px;
+	line-height: 26px;
+	text-align: center;
+}
+.dairyone-row-height
+{
+	height: 11px;
+}
+.dairyone-row-height1
+{
+	height: 31px;
+}
+
+.dairyone-row-height2
+{
+	height: 7px;
+}
+
+.dairyone-row-height3
+{
+	height: 52px;
+}
+
+.dairyone-line
+{
+	border: 2px solid #064DA1;
+	width:189px;
+}
+/*DairyOne  Section Css End*/
+
+
+/*DairyOne Family Section Css Start*/
+.dairyone-family
+ {
+	color: #064DA1;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 14px;
+	line-height: 19px;
+	text-align: center;
+	font-weight: bold;
+}
+
+
+.explore-the-distinct
+ {
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+
+.dairyone-family-row-height
+{
+    height: 60px;
+}
+
+.dairyone-family-row-height1
+{
+	height: 13px;
+}
+
+.dairyone-family-row-height2
+{
+	height: 46px;
+}
+
+/*DairyOne Family Section Css End*/
+
+/*Three Pic Section Css Start*/
+.application-dairyone-img
+{
+	width: 325px;
+	height: 402px;
+}
+.pic-row-height
+{
+	height: 31px;
+}
+.pic-row-height1
+{
+    height: 160px;
+}
+
+.pic-row-height2
+{
+    height: 132px;
+}
+.application 
+{
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 22px;
+	font-weight: bold;
+	letter-spacing: 1.2px;
+	line-height: 22px;
+}
+
+/*Three Pic Section Css End*/
+
+
+
+
+
+/*Main Footer Section Css Start*/
+.main-footer-img 
+{
+  text-align: center;
+  background-image: url('images/footer.png') no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+   min-height: 861px;
+}
+
+.main-footer-row-height
+{
+	height: 50px;
+}
+.main-footer-row-height1
+{
+	height: 40px;
+}
+
+.main-footer-row-height2
+{
+	height: 40px;
+}
+.main-footer-row-height3
+{
+	height:8px;
+}
+
+.footer-logo-icon
+ {
+	height: 80px;
+	width: 101px;
+}
+
+.privacy-policy-terms 
+{
+	color: #FFFFFF;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 14px;
+	line-height: 18px;
+}
+.all-rights-reserved
+{
+	color: #B0B0B0;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 13px;
+	line-height: 19px;
+}
+.cursor
+{
+	cursor: pointer;
+}
+/*Main Footer Section Css End*/

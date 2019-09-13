@@ -1,0 +1,427 @@
+li.underline > a {
+    border-bottom:3px solid #FFFFFF;
+}
+/*Banner Section Css Start*/
+.lucas-vasques-453684-unsplash
+	 {
+		  text-align: center;
+		  background-image: url('images/r&d-banner.png') no-repeat center;
+		  background-size: cover;
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  -ms-background-size: cover;
+		   min-height: 670px;
+		   /*opacity: 0.08;*/
+	}
+@media only screen and (max-width: 600px)
+{
+	.lucas-vasques-453684-unsplash
+	{
+		  text-align: center;
+		  background-image: url('images/r&d-banner.png') no-repeat center;
+		  background-size: cover;
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  -ms-background-size: cover;
+		   min-height: 1000px;
+		   /*opacity: 0.08;*/
+	}
+}
+.sf-logo-motif
+ {	
+ 	height: 56px;	
+ 	width: 38px;
+ 	text-align: center;
+ }
+.banner-row-height
+{
+	height:50px;
+}
+.banner-row-height1
+{
+	height:18.2px;
+}
+.banner-row-height2
+{
+	height:70px;
+}
+.banner-row-height3
+{
+	height:9px;
+}
+.nav-text
+{
+	font-size: 12px;
+	font-family:sans-serif,Cera PRO;
+	line-height: 16px;
+	font-weight: normal;
+    font-style: normal;
+}
+
+.keeping-your-end-pro
+ {
+	color: #FFFFFF;
+	font-family: "Acta Deck";
+	font-size: 58px;
+	font-weight: 300;
+	line-height: 63px;
+	text-align: center;
+}
+
+/*Banner Section Css End*/
+
+/*Breadcrumbs  Section Css Start*/
+.bgcolor
+{
+	background-color:#eeeeee;
+	height: 45px;
+}
+
+.home-about 
+{
+
+	font-family: sans-serif,"Cera PRO";
+	font-size: 16px;
+	font-weight:bold;
+	line-height: 20px;
+}
+
+/*Breadcrumbs  Section Css End*/
+
+/*Research  Section Css Start*/
+.research-row-height
+{
+	height: 74px;
+}
+.research-row-height1
+{
+	height: 11px;
+}
+.research-row-height2
+{
+	height: 20px;
+}
+.research-row-height3
+{
+    height: 3px;
+}
+.research-row-height4
+{
+	height: 123px;
+}
+.research-line
+{
+	border: 2px solid #064DA1;
+	width:189px;
+}
+
+.research-and-develop
+ {
+
+	color: #064DA1;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 14px;
+	line-height: 19px;
+	font-weight: bold;
+}
+
+.driven-by-innovation 
+{
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 41px;
+	font-weight: 300;
+	letter-spacing: 1.4px;
+	line-height: 46px;
+	text-align: center;
+
+}
+.our-research-and-dev 
+{
+
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+
+.operating-out-of
+{
+	color: #064DA1;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 23px;
+	line-height: 30px;
+	text-align: center;
+	letter-spacing: 1.06px;
+}
+/*Research  Section Css End*/
+
+
+/*Three Logo with Text  Section Css Start*/
+
+.icon-1 
+{
+	height: 30px;
+	width: 30px;
+}
+
+
+.icon-2 
+{
+	height: 29.63px;
+	width: 27.87px;
+}
+
+.icon-3
+ {
+	height: 37px;
+	width: 26px;
+}
+
+.years-of-combin-120
+ {
+	color: rgba(0,0,0,0.8);
+	font-family: "Acta Deck";
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 27px;
+	text-align: center;
+	margin-top: 24px;
+}
+
+.countries-served-12 
+{
+	color: rgba(0,0,0,0.8);
+	font-family: "Acta Deck";
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 27px;
+	text-align: center;
+	margin-top: 24px;
+}
+.sqft-of-dedic-25000 
+{
+
+	color: rgba(0,0,0,0.8);
+	font-family: "Acta Deck";
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 27px;
+	text-align: center;
+	margin-top: 24px;
+}
+
+.three-logo-row-height
+{
+    height: 67px;
+}
+
+.three-logo-row-height1
+{
+    height: 50px;
+}
+/*Three Logo with Text  Section Css End*/
+
+
+/*We Are Constantly Section Css Start*/
+.we-are-constantly-op
+ {
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: 500;
+	letter-spacing: 1.5px;
+	line-height: 36px;
+	text-align: center;
+}
+
+.innovation-underline
+ {
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+
+.we-are-row-height
+{
+   height: 98px;
+}
+
+.we-are-row-height1
+{
+   height: 22px;
+}
+
+.we-are-row-height2
+{
+  height: 110px;
+}
+
+/*We Are Constantly Section Css End*/
+
+/*Lab Image Section Css Start*/
+
+
+.lab-background-img
+	 {
+		  text-align: center;
+		  background-image: url('images/research-lab-img.png') no-repeat center;
+		  background-size: cover;
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  -ms-background-size: cover;
+		   height: 417px;
+		   /*opacity: 0.08;*/
+	}
+
+	@media only screen and (max-width: 600px)
+	{
+		.lab-background-img
+		 {
+			  text-align: center;
+			  background-image: url('images/research-lab-img.png') no-repeat center;
+			  background-size: cover;
+			  -webkit-background-size: cover;
+			  -moz-background-size: cover;
+			  -o-background-size: cover;
+			  -ms-background-size: cover;
+			   height: 296px;
+			   /*width: 10%*/
+			   /*opacity: 0.08;*/
+		}
+	}
+
+/*Lab Image Section Css Start*/
+
+/*Our World Class Section Css Start*/
+
+.our-world-class-sta 
+{
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 47px;
+	font-weight: 300;
+	line-height: 58px;
+	text-align: center;
+}
+
+.equipped-for-complex 
+{
+	/*color: #616161;*/
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+
+.our-world-row-height
+{
+    height: 100px;
+}
+
+.our-world-row-height1
+{
+	height: 20px;
+}
+
+/*Our World Class Section Css End*/
+
+/* Three Lab Photo Section Css start*/
+
+.three-lab-row-height
+{
+   height: 101px;
+}
+
+.three-lab-row-height1
+{
+   height: 140px;
+}
+.research-lab-img1 
+{
+	height: 551px;
+	width: 366px;
+}
+
+
+.research-lab-img2 
+{
+	height: 550px;
+	width: 256px;
+}
+
+.research-lab-img3 
+{
+	height: 551px;
+	width: 366px;
+}
+
+
+/* Three Lab Photor Section Css End*/
+
+
+
+
+/*Main Footer Section Css Start*/
+.main-footer-img 
+{
+  text-align: center;
+  background-image: url('images/footer.png') no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+   min-height: 861px;
+}
+
+.main-footer-row-height
+{
+	height: 50px;
+}
+.main-footer-row-height1
+{
+	height: 40px;
+}
+
+.main-footer-row-height2
+{
+	height: 40px;
+}
+.main-footer-row-height3
+{
+	height:8px;
+}
+
+.footer-logo-icon
+ {
+	height: 80px;
+	width: 101px;
+}
+
+.privacy-policy-terms 
+{
+	color: #FFFFFF;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 14px;
+	line-height: 18px;
+}
+.all-rights-reserved
+{
+	color: #B0B0B0;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 13px;
+	line-height: 19px;
+}
+.cursor
+{
+	cursor: pointer;
+}
+/*Main Footer Section Css End*/

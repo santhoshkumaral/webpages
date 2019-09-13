@@ -1,0 +1,301 @@
+li.underline > a {
+    border-bottom:3px solid #FFFFFF;
+}
+/*Banner Section Css Start*/
+.index-page-banner {
+  text-align: center;
+  background-image: url('images/banner1.png') no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  min-height: 684px;
+}
+@media only screen and (max-width: 600px)
+{
+	.index-page-banner
+	 {
+	  text-align: center;
+	  background-image: url('images/banner1.png') no-repeat center;
+	  background-size: cover;
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  -ms-background-size: cover;
+	  min-height: 784px;
+	}
+}
+.sf-logo-motif
+ {	
+ 	height: 56px;	
+ 	width: 38px;
+ 	text-align: center;
+ }
+
+.logoheightdiv
+{
+ height: 50px;
+}
+
+.navheightdiv
+{
+	height: 18.2px;
+}
+
+.bannertextheightdiv
+{
+	height: 65px;
+}
+
+.the-journey-of-flavo
+ {
+	color: #FFFFFF;
+	font-family: "Acta Deck";
+	font-size: 58px;
+	font-weight: 300;
+	line-height: 63px;
+	text-align: center;
+}
+
+.nav-text
+{
+	font-size: 12px;
+	font-family: sans-serif,Cera PRO;
+	font-weight: normal;
+}
+/*Banner Section Css End*/
+
+/*Breadcrumbs  Section Css Start*/
+.bgcolor
+{
+	background-color:#eeeeee;
+	height: 45px;
+}
+
+.home-about 
+{
+
+	font-family: "Cera PRO";
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 20px;
+}
+
+/*Breadcrumbs  Section Css End*/
+
+/*Explore the wide  Section Css Start*/
+
+.explore-row-height
+{
+    height: 125px;
+}
+
+.explore-row-height1
+{
+	height: 28px;
+}
+
+.explore-row-height2
+{
+	height: 92px;
+}
+
+.explore-the-wide-arr 
+{
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 31px;
+	font-weight: 500;
+	letter-spacing: 1.06px;
+	line-height: 36px;
+	text-align: center;
+}
+
+.for-every-flavour-we 
+{
+	color: #4C4C4C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+/*Explore the wide  Section Css End*/
+
+
+/*Three Pic  Section Css Start*/
+.learn-more
+ {
+	color: #898FFF;
+	font-family: sans-serif,CeraPRO-Bold;
+	font-size: 13px;
+	line-height: 19px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.three-pic-row-height1
+{
+   height: 40px;
+}
+
+.three-pic-row-height2
+{
+	height: 16px;
+}
+
+.three-pic-row-height3
+{
+	height: 23px;
+}
+
+.three-pic-row-height4
+{
+	height: 125px;
+}
+
+.three-pic-row-height6
+{
+	height: 65px;
+}
+
+.three-pic-row-height7
+{
+	height: 20px;
+}
+
+.three-pic-row-height8
+{
+	height: 50px;
+}
+
+.dairy-one-natural-dai
+ {
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 22px;
+	font-weight: bold;
+	letter-spacing: 1.13px;
+	line-height: 28px;
+	text-align: center;
+}
+
+.we-are-the-first-ind
+ {
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+
+.application-dairyone1-img
+{
+   margin-left: 40px;
+}
+.application-dairyone-img
+{
+	height: 72px;
+	width: 52px;
+}
+
+.popular-flavours-app
+ {
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 22px;
+	font-weight: bold;
+	letter-spacing: 1.13px;
+	line-height: 28px;
+	text-align: center;
+}
+
+
+.our-popular-flavours 
+{
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+
+.ndc-non-dairy-creame 
+{
+
+	color: #000000;
+	font-family: "Acta Deck";
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 28px;
+	text-align: center;
+}
+
+.our-manufacturing-fa 
+{
+	color: #8C8C8C;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+}
+/*Three Pic  Section Css End*/
+
+ 
+
+/*Main Footer Section Css Start*/
+.main-footer-img 
+{
+  text-align: center;
+  background-image: url('images/footer.png') no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+   min-height: 861px;
+}
+
+.main-footer-row-height
+{
+	height: 50px;
+}
+.main-footer-row-height1
+{
+	height: 40px;
+}
+
+.main-footer-row-height2
+{
+	height: 40px;
+}
+.main-footer-row-height3
+{
+	height:8px;
+}
+
+.footer-logo-icon
+ {
+	height: 80px;
+	width: 101px;
+}
+
+.privacy-policy-terms 
+{
+	color: #FFFFFF;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 14px;
+	line-height: 18px;
+}
+.all-rights-reserved
+{
+	color: #B0B0B0;
+	font-family: sans-serif,"Cera PRO";
+	font-size: 13px;
+	line-height: 19px;
+}
+.cursor
+{
+	cursor: pointer;
+}
+/*Main Footer Section Css End*/
